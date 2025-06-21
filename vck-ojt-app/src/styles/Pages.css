@@ -1,0 +1,97 @@
+.courses-container{
+  max-width: 500;
+  width: 100%;
+ background-color: #E1FCFD;
+ color: black;
+ border-radius: 18px;
+ border-color: rgb(70, 141, 212);
+ padding-left: 30px;
+ padding-right: 30px;
+ padding-top: 10px;
+ padding-bottom: 30px;
+ 
+}
+.h1tag{
+  text-align: center;
+  color: rgba(36, 4, 4, 0.599);
+  text-shadow: 2px 2px #f1e9e9;
+  font-weight: bold;
+  background-image: url("D:\OJT\day4\vck-ojt-app\src\assets\head bg.png");
+  background-repeat: no-repeat;
+  background-size: 1250px 65px;
+  
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.button{
+  padding-top: 20px;
+  text-align: center;
+  box-shadow: 0 5px 10px #0000001a;
+  padding-bottom: 15px;
+}
+.abouttable{
+  width: 100%;
+  margin: 20px 0;
+  font-family: Arial, sans-serif;
+  padding: 8px;
+  background-color: rgba(73, 164, 225, 0.59);
+  border-color: black;
+  padding: auto;
+}
+.about-table-heading{
+  background-color: rgba(232, 232, 87, 0.507);
+  font-size: 20px;
+}
+td {
+  padding-left: 15px;
+}
+.about-container{
+  max-width: 500;
+  width: 100%;
+ background: radial-gradient(circle,rgba(209, 61, 125, 1) 0%, rgba(148, 187, 233, 1) 100%);
+ color: rgb(28, 1, 1);
+ border-radius: 20px;
+ border-color: rgb(70, 141, 212); 
+ padding-left: 30px;
+ padding-right: 30px;
+ padding-top: 10px;
+ padding-bottom: 30px;
+}
+.mission{
+  background-image: url("D:\OJT\day4\vck-ojt-app\src\assets\mission bg.gif");
+  background-repeat: no-repeat;
+  background-size: 950px 145px;
+  width: 100%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.contact-container{
+  max-width: 500;
+  width: 100%;
+ background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+ color: rgb(28, 1, 1);
+ border-radius: 20px;
+ border-color: rgb(70, 141, 212); 
+ padding-left: 30px;
+ padding-right: 30px;
+ padding-top: 10px;
+ padding-bottom: 30px;
+}
+.home-container{
+  max-width: 500;
+  width: 100%;
+ color: rgb(28, 1, 1);
+ border-style: dotted;
+ border-radius: 20px;
+ border-color: rgb(70, 141, 212); 
+ padding-left: 30px;
+ padding-right: 30px;
+ padding-top: 10px;
+ padding-bottom: 30px;
+ background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+.head-home-tag{
+  background-image: url("D:\OJT\day4\vck-ojt-app\src\assets\VCK_Banner_2.jpg");
+  border-radius: 10px;
+}
