@@ -4,7 +4,7 @@ import AboutPage from "./pages/AboutPage";
 import Contactpage from "./pages/ContactPage";
 import CoursesPage from "./pages/CoursesPage";
 import ChatbotComponent from "./component/Chatbot/ChatbotComponents";
-import "./styles/pages.css";
+import "./styles/Pages.css";
 import "./App.css";
 import Footer from "./component/Footer/Footer";
 import { useState } from "react";
